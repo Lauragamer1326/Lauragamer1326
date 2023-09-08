@@ -1,4 +1,4 @@
-<h1 text-align: "center"> Olá terráqueos </h2>
+<h1 text-align: "center"> Olá terráqueos </h1>
 
 <div align="center">
     <p> Um dev em começo de carreira, buscando novas oportunidades e novos conhecimentos.</p>
